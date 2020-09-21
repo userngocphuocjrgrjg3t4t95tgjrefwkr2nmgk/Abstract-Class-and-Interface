@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Lop Animal va interface Edible/1.0.0": {
+        "runtime": {
+          "Lop Animal va interface Edible.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lop Animal va interface Edible/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

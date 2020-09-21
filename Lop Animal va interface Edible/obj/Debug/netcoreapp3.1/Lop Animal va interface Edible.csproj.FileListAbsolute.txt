@@ -1,0 +1,13 @@
+C:\ngocphuoc\Abstract class\Lop Animal va interface Edible\bin\Debug\netcoreapp3.1\Lop Animal va interface Edible.exe
+C:\ngocphuoc\Abstract class\Lop Animal va interface Edible\bin\Debug\netcoreapp3.1\Lop Animal va interface Edible.deps.json
+C:\ngocphuoc\Abstract class\Lop Animal va interface Edible\bin\Debug\netcoreapp3.1\Lop Animal va interface Edible.runtimeconfig.json
+C:\ngocphuoc\Abstract class\Lop Animal va interface Edible\bin\Debug\netcoreapp3.1\Lop Animal va interface Edible.runtimeconfig.dev.json
+C:\ngocphuoc\Abstract class\Lop Animal va interface Edible\bin\Debug\netcoreapp3.1\Lop Animal va interface Edible.dll
+C:\ngocphuoc\Abstract class\Lop Animal va interface Edible\bin\Debug\netcoreapp3.1\Lop Animal va interface Edible.pdb
+C:\ngocphuoc\Abstract class\Lop Animal va interface Edible\obj\Debug\netcoreapp3.1\Lop Animal va interface Edible.csprojAssemblyReference.cache
+C:\ngocphuoc\Abstract class\Lop Animal va interface Edible\obj\Debug\netcoreapp3.1\Lop Animal va interface Edible.AssemblyInfoInputs.cache
+C:\ngocphuoc\Abstract class\Lop Animal va interface Edible\obj\Debug\netcoreapp3.1\Lop Animal va interface Edible.AssemblyInfo.cs
+C:\ngocphuoc\Abstract class\Lop Animal va interface Edible\obj\Debug\netcoreapp3.1\Lop Animal va interface Edible.csproj.CoreCompileInputs.cache
+C:\ngocphuoc\Abstract class\Lop Animal va interface Edible\obj\Debug\netcoreapp3.1\Lop Animal va interface Edible.dll
+C:\ngocphuoc\Abstract class\Lop Animal va interface Edible\obj\Debug\netcoreapp3.1\Lop Animal va interface Edible.pdb
+C:\ngocphuoc\Abstract class\Lop Animal va interface Edible\obj\Debug\netcoreapp3.1\Lop Animal va interface Edible.genruntimeconfig.cache
